@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BirthdayApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_date_edit_text">Enter your birthday</string>
+    <string name="ok_button">OK</string>
+    <string name="hint_text_name">Enter your name</string>
+    <string name="random_button_text">Random Button</string>
+    <string name="unfriendly_text">Unfriendly button</string>
+    <string name="friendly_text">Friendly Button</string>
+    <string name="rate_this_app">Rate this app!</string>
+</resources>
